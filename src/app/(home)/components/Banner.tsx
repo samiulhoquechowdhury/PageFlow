@@ -4,7 +4,7 @@ import Book from "./book.png";
 
 const Banner = () => {
   return (
-    <div className="max-w-7xl mx-auto border border-slate-200 mt-6 rounded-lg p-14">
+    <div className="max-w-7xl mx-auto bg-gray-950 shadow-md shadow-blue-900 mt-11 rounded-lg p-14">
       <div className="flex">
         <div className="text-6xl font-extrabold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent leading-normal">
           <h1 className="font-bold uppercase text-6xl p-3 max-w-screen-lg">
